@@ -1,0 +1,30 @@
+E:\Kuliah\Skilvul\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.exe
+E:\Kuliah\Skilvul\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.deps.json
+E:\Kuliah\Skilvul\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.runtimeconfig.json
+E:\Kuliah\Skilvul\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.dll
+E:\Kuliah\Skilvul\Kalkulator sederhana\bin\Debug\net6.0\Kalkulator sederhana.pdb
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.AssemblyReference.cache
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfoInputs.cache
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfo.cs
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.CoreCompileInputs.cache
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.dll
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\refint\Kalkulator sederhana.dll
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.pdb
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\Kalkulator sederhana.genruntimeconfig.cache
+E:\Kuliah\Skilvul\Kalkulator sederhana\obj\Debug\net6.0\ref\Kalkulator sederhana.dll
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\bin\Debug\net6.0\Kalkulator sederhana.exe
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\bin\Debug\net6.0\Kalkulator sederhana.deps.json
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\bin\Debug\net6.0\Kalkulator sederhana.runtimeconfig.json
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\bin\Debug\net6.0\Kalkulator sederhana.dll
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\bin\Debug\net6.0\Kalkulator sederhana.pdb
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.AssemblyReference.cache
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfoInputs.cache
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.AssemblyInfo.cs
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.csproj.CoreCompileInputs.cache
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.dll
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\refint\Kalkulator sederhana.dll
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.pdb
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\Kalkulator sederhana.genruntimeconfig.cache
+C:\Users\arriz\Documents\GitHub\Kalkulator-sederhana\obj\Debug\net6.0\ref\Kalkulator sederhana.dll
